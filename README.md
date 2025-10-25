@@ -51,7 +51,7 @@ jobs:
     ### you can also call workflows from inside the same repo via file path
 
     # FIXME: customize uri to point to your own reusable linter repository
-    uses: bretfisher/super-linter-workflow/.github/workflows/reusable-super-linter.yaml@main
+    uses: polygeist111/super-linter-workflow/.github/workflows/reusable-super-linter.yaml@main
 
     ### Optional settings examples
 
